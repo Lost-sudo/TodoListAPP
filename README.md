@@ -42,16 +42,6 @@ To run this project, you'll need to have the following installed on your machine
 
 4. Set up your PostgreSQL database and update your connection details in the code.
 
-5. Create a `.env` file to store sensitive configuration variables (like database credentials). Example:
-
-    ```bash
-    DB_USER=your_postgres_username
-    DB_PASSWORD=your_postgres_password
-    DB_HOST=localhost
-    DB_PORT=5432
-    DB_DATABASE=todolist
-    ```
-
 ## Running the Application
 
 1. Start the PostgreSQL server.
